@@ -1,4 +1,3 @@
-# Set Up Your Next.js Project
 
 Install Node.js if you haven't already. You can download it from the Node.js website.
 Open your command line interface (CLI) and create a new Next.js project by running: 
@@ -7,21 +6,21 @@ Open your command line interface (CLI) and create a new Next.js project by runni
     
     cd my-next-app.
 
-# Install Dependencies
+Install Dependencies
 
     Run npm install react-burger-menu papaparse 
 
 
-# Add the Code
+Add the Code
 
 Copy the files with React code and css (index.js, index.css) to the "/pages" directory.
 
 
-# Add CSV Files
+Add CSV Files
 
 Place your CSV files (like file1.csv, file2.csv, etc.) in the "/public" directory.
 
-# Run Your Next.js Application
+Run Your Next.js Application
 
     run npm run dev
 
