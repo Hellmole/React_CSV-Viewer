@@ -1,4 +1,4 @@
-# How to install
+# How to install and run
 
 Install Node.js if you haven't already. You can download it from the Node.js website.
 Open your command line interface (CLI) and create a new Next.js project by running: 
