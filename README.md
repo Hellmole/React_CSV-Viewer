@@ -5,14 +5,14 @@ Open your command line interface (CLI) and create a new Next.js project by runni
     
     npx create-next-app my-next-app 
     
-    cd my-next-app.
+    cd my-next-app
 
 Install Dependencies:
 
     Run npm install react-burger-menu papaparse 
 
 
-Copy the files with React code and css (index.js, index.css) to the "/pages" directory.
+Copy the files index.js and index.css to the "/pages" directory.
 
 Place your CSV files (like file1.csv, file2.csv, etc.) in the "/public" directory.
 
