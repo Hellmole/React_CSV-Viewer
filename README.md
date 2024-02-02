@@ -9,7 +9,7 @@ Open your command line interface (CLI) and create a new Next.js project by runni
 
 Install Dependencies:
 
-    Run npm install react-burger-menu papaparse 
+    npm install react-burger-menu papaparse 
 
 
 Copy the files index.js and index.css to the "/pages" directory.
@@ -18,6 +18,6 @@ Place your CSV files (like file1.csv, file2.csv, etc.) in the "/public" director
 
 Run Your Next.js Application
 
-    run npm run dev
+    npm run dev
 
 Open a web browser and go to http://localhost:3000 to view your application.
